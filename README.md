@@ -39,13 +39,17 @@ The goal is to provide a structured and efficient way to handle daily laboratory
 
 ## 📁 Project Structure
 
-```
+```bash
 📦 laboratory-system
- ┣ 📜 Laboratorio.java
- ┣ 📜 Exame.java
- ┣ 📜 PedidoExame.java
- ┣ 📜 ListaLinear.java
- ┗ 📜 exames.txt
+ ┣ 📂 src/
+ ┃ ┣ 📜 Laboratorio.java
+ ┃ ┣ 📜 Exame.java
+ ┃ ┣ 📜 PedidoExame.java
+ ┃ ┗ 📜 ListaLinear.java
+ ┣ 📂 data/
+ ┃ ┗ 📜 exames.txt
+ ┣ 📜 README.md
+ ┣ 📜 .gitignore
 ```
 
 ---
@@ -54,7 +58,7 @@ The goal is to provide a structured and efficient way to handle daily laboratory
 
 ```bash
 git clone https://github.com/seu-usuario/laboratory-system.git
-cd laboratory-system
+cd laboratory-system/src
 javac *.java
 java Laboratorio
 ```
@@ -98,3 +102,7 @@ This project is for educational purposes.
 <p align="center">
   Made with 💻 and collaboration
 </p>
+
+
+* [Stephanie Dias](https://github.com/seu-usuario)
+* [Laura Yaguiu](https://github.com/laurayaguiu)
