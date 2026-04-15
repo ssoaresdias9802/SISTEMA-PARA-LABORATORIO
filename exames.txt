@@ -1,0 +1,113 @@
+abreviatura,nome_exame,quantidade_dias
+AUR,Acido urico,5
+AMC,Amilase,4
+ASO,ASLO / Estreptolisina,7
+ATP,Atividade de protrombina,3
+BHC,Beta HCG,6
+BIL,Bilirrubina total e fracoes,4
+CAL,Calcio,3
+CRE,Creatinina,3
+COL,Colesterol total,5
+HDL,Colesterol HDL,5
+LDL,Colesterol LDL,5
+CK,Creatinoquinase (CK),6
+CKMB,Creatinoquinase MB,6
+DHL,Desidrogenase lactica,7
+FER,Ferritina,10
+FOS,Fosfatase alcalina,6
+GGT,Gama GT,5
+GLI,Glicose,2
+HBA,Hemoglobina glicada,8
+HEM,Hemograma completo,2
+INS,Insulina,5
+LIP,Lipase,4
+MAG,Magnesio,5
+PCR,Proteina C reativa,4
+POT,Potassio,2
+SOD,Sodio,2
+TGO,Transaminase TGO (AST),5
+TGP,Transaminase TGP (ALT),5
+TRI,Triglicerideos,6
+TSH,Hormonio estimulante da tireoide,9
+T4L,T4 livre,9
+URE,Ureia,3
+VITD,Vitamina D,12
+VITB12,Vitamina B12,10
+ZIN,Zinco,11
+ALB,Albumina,4
+ALT,Alanina aminotransferase,5
+AST,Aspartato aminotransferase,5
+C3,Complemento C3,8
+C4,Complemento C4,8
+CA125,Marcador tumoral CA 125,15
+CA19,Marcador tumoral CA 19-9,15
+CEA,Antigeno carcinoembrionario,14
+PSA,PSA total,10
+PSAL,PSA livre,10
+TEST,Testosterona total,7
+ESTR,Estradiol,7
+PROG,Progesterona,7
+LH,Hormonio luteinizante,7
+FSH,Hormonio foliculo estimulante,7
+PRL,Prolactina,7
+CORT,Cortisol,8
+ACTH,ACTH,9
+DHEA,DHEA-S,10
+HIV,Sorologia HIV,12
+HBV,Hepatite B,12
+HCV,Hepatite C,12
+VDRL,VDRL sifilis,6
+FTA,FTA-ABS,10
+TOXO,Toxoplasmose IgG,8
+TOXM,Toxoplasmose IgM,8
+RUBE,Rubeola IgG,8
+RUBM,Rubeola IgM,8
+CMVG,CMV IgG,9
+CMVM,CMV IgM,9
+EBVG,Epstein Barr IgG,9
+EBVM,Epstein Barr IgM,9
+ANA,Anticorpo antinuclear,12
+ANTI,Anticorpo anti-DNA,13
+ANCA,ANCA,13
+FAN,Fator antinuclear,12
+FR,Fator reumatoide,8
+CCP,Anti CCP,12
+GLU6,G6PD,14
+ELET,Eletroforese de proteinas,10
+URIN,Urina tipo I,2
+UROC,Urocultura,6
+COPR,Parasitologico de fezes,5
+COP3,Parasitologico 3 amostras,7
+SANG,Sangue oculto fezes,4
+CALP,Calprotectina fecal,9
+AMIL,Amilase urinaria,4
+PROT,Proteina total,4
+ALFA,Alfa 1 glicoproteina,9
+ALF2,Alfa 2 globulina,9
+BETA,Beta globulina,9
+GAMA,Gama globulina,9
+LDH,LDH,6
+CKT,CK total,6
+CKI,CK isoenzimas,8
+HAPT,Haptoglobina,10
+TRANS,Transferrina,10
+SATF,Saturacao transferrina,10
+FER2,Ferritina serica detalhada,11
+VHS,Velocidade hemossedimentacao,3
+RET,Reticulocitos,4
+ERIT,Contagem eritrocitos,3
+LEUC,Contagem leucocitos,3
+PLAQ,Contagem plaquetas,3
+TP,Tempo protrombina,3
+TTPA,Tempo tromboplastina parcial,3
+DIMER,D-dimero,8
+FIBR,Fibrinogenio,6
+AMON,Amonia,7
+LACT,Lactato,6
+OSMO,Osmolalidade plasmatica,8
+GASO,Gasometria arterial,2
+GASF,Gasometria venosa,2
+ACUR,Acido urico urinario,4
+MICR,Microalbuminuria,5
+CREU,Creatinina urinaria,4
+PROU,Proteina urinaria,5
